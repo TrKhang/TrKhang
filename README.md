@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrKhang
-- 🌱 I’m currently learning Embedded System
+- 🌱 I’m currently a undergraduate, my major is Embedded System & IoT
 - 📫 You can reach me at my email: dokhang762@gmail.com
 
 <!---
